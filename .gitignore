@@ -3,3 +3,7 @@
 build/
 dist/
 sphinxcontrib_plantuml.egg-info/
+
+.venv
+.idea
+.envrc
